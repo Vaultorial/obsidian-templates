@@ -22,7 +22,7 @@ Dates use the world's own calendar — years of the Tide Reckoning, written `368
 ## Plugins to enable
 
 1. **Dataview** (required) — powers the rollups in [[World Index]] and [[Timeline]].
-2. **Timelines** (optional) — renders visual timelines from tagged spans if you want more than the queried table. The vault works fully without it.
+2. **Timelines (Revamped)** (optional) — renders visual timelines from tagged spans if you want more than the queried table. The vault works fully without it.
 
 The **Templates** core plugin is already enabled and pointed at `Templates/`.
 

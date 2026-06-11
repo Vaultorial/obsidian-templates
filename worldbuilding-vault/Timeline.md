@@ -23,4 +23,4 @@ SORT year ASC
 - **374 TR — [[The Drowning of Lowmark]]** *(upcoming)*. The scheduled midsummer flooding of the Lower Ward. Every thread in this vault leads here.
 
 > [!tip] Optional: visual timelines
-> The Timelines community plugin (`obsidian-timelines`) can render events as a visual band. If you install it, tag your event notes and add its timeline spans per the plugin's documentation. The queried table above is the plugin-free baseline and keeps working either way.
+> The Timelines (Revamped) community plugin (`timelines-revamped`) can render events as a visual band. If you install it, tag your event notes and add its timeline spans per the plugin's documentation. The queried table above is the plugin-free baseline and keeps working either way.
