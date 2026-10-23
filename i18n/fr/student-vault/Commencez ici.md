@@ -12,7 +12,7 @@ Les notes d'exemple sont délibérément remplies de matière correcte et géné
 
 ## Premiers pas
 
-1. Installez et activez **Dataview** (requis pour le [[Tableau de bord]]) : Paramètres → Plugins communautaires → Parcourir → "Dataview".
+1. Installez et activez **Dataview** (requis pour le [[Tableau de bord]]) : Paramètres → Modules complémentaires → Parcourir → "Dataview".
 2. Ouvrez le [[Tableau de bord]] et confirmez que les tableaux des échéances et des examens s'affichent.
 3. Créez un dossier de matière pour l'une de vos vraies matières dans `Printemps 2026/` (ou un nouveau dossier de semestre).
 4. Prenez votre prochain cours dans une copie de `Modèles/Note de cours.md` (plugin natif Templates, déjà configuré). Mettez une date `due` sur tout ce qui a une échéance et cela apparaît sur le tableau de bord.

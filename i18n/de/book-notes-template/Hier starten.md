@@ -15,7 +15,7 @@ Sechs Bücher sind bereits da, in verschiedenen Zuständen, damit jedes Regal et
 
 ## Erste Schritte
 
-1. Installiere und aktiviere **Dataview** (erforderlich — das [[Bücherregal]] ist ohne es leer): Einstellungen → Community-Plugins → Durchsuchen → "Dataview".
+1. Installiere und aktiviere **Dataview** (erforderlich — das [[Bücherregal]] ist ohne es leer): Einstellungen → Externe Erweiterungen → Durchsuchen → "Dataview".
 2. Öffne das [[Bücherregal]] und prüfe, dass die Regale rendern.
 3. Füge das Buch hinzu, das du gerade liest: neue Notiz in `Bücher/`, benannt nach dem Titel, füge `Vorlagen/Buchnotiz.md` ein (Core-Templates-Plugin, bereits konfiguriert), fülle das Frontmatter, setz `status: lese ich`.
 4. Optional: Installiere **Book Search**, um Buchnotizen mit Autor und Metadaten aus einer Titelsuche vorgefüllt zu erstellen.

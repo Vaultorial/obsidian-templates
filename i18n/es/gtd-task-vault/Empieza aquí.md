@@ -24,7 +24,7 @@ Añade una etiqueta de contexto a cualquier tarea y aparecerá en la sección co
 
 ## Plugins a activar
 
-1. **Tasks** (obligatorio) — Ajustes → Plugins de la comunidad → Explorar → "Tasks". Da vida a cada query del Panel.
+1. **Tasks** (obligatorio) — Ajustes → Complementos comunitarios → Buscar → "Tasks". Da vida a cada query del Panel.
 2. **Dataview** (opcional) — se usa solo para la tabla resumen de proyectos al final del Panel. Todo lo demás funciona sin él.
 
 El plugin core **Templates** ya está activado y apuntando a la carpeta `Plantillas/`.

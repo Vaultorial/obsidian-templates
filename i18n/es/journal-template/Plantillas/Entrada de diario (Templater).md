@@ -17,4 +17,4 @@ type: diario
 
 > [!note]- Clave del registro rápido
 > `•` tarea · `×` tarea hecha · `○` evento · `–` nota · `\>` migrada (escríbelo escapado, p. ej. `\> Regar las plantas → [[2026-06-08]]`)
-> Variante de Templater: el encabezado y los enlaces ant./sig. se calculan a partir del nombre del fichero. Configuración: instala Templater, define `Plantillas` como su carpeta de plantillas y apunta Ajustes → Daily notes → Plantilla a este fichero en lugar de la variante core. Borra este callout de tu copia.
+> Variante de Templater: el encabezado y los enlaces ant./sig. se calculan a partir del nombre del fichero. Configuración: instala Templater, define `Plantillas` como su carpeta de plantillas y apunta Ajustes → Notas diarias → Plantilla a este fichero en lugar de la variante core. Borra este callout de tu copia.

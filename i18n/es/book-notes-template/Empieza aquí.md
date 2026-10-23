@@ -15,7 +15,7 @@ Ya hay seis libros, en distintos estados, para que cada estante tenga algo: empi
 
 ## Primeros pasos
 
-1. Instala y activa **Dataview** (obligatorio — la [[Estantería]] está en blanco sin él): Ajustes → Plugins de la comunidad → Explorar → "Dataview".
+1. Instala y activa **Dataview** (obligatorio — la [[Estantería]] está en blanco sin él): Ajustes → Complementos comunitarios → Buscar → "Dataview".
 2. Abre la [[Estantería]] y confirma que los estantes se renderizan.
 3. Añade el libro que estás leyendo ahora: nota nueva en `Libros/` con el nombre del título, inserta `Plantillas/Nota de libro.md` (plugin core Templates, ya configurado), rellena el frontmatter, pon `status: leyendo`.
 4. Opcional: instala **Book Search** para crear notas de libro con autor y metadatos rellenados desde una búsqueda por título.

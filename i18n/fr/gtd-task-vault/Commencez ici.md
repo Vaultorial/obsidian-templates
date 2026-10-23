@@ -24,7 +24,7 @@ Ajoutez un tag de contexte à n'importe quelle tâche et elle apparaît dans la 
 
 ## Plugins à activer
 
-1. **Tasks** (requis) — Paramètres → Plugins communautaires → Parcourir → "Tasks". Alimente chaque requête du Tableau de bord.
+1. **Tasks** (requis) — Paramètres → Modules complémentaires → Parcourir → "Tasks". Alimente chaque requête du Tableau de bord.
 2. **Dataview** (optionnel) — utilisé uniquement pour le tableau récapitulatif des projets en bas du Tableau de bord. Tout le reste fonctionne sans lui.
 
 Le plugin natif **Templates** est déjà activé et pointé sur le dossier `Modèles/`.

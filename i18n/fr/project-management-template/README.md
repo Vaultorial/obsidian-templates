@@ -23,7 +23,7 @@ project-management-template/
 
 ## Installation
 
-1. Téléchargez et décompressez le modèle : **Décompresser → Obsidian → Ouvrir le dossier comme vault**.
+1. Téléchargez et décompressez le modèle : **Décompresser → Obsidian → Ouvrir un dossier comme coffre**.
 2. Quand Obsidian le demande, activez les plugins communautaires pour ce vault.
 3. Installez Dataview et ouvrez `Tableau de bord.md` en mode lecture.
 

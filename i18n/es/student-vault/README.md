@@ -21,7 +21,7 @@ Las notas llevan los campos `due` y `type` en su frontmatter. `Panel.md` consult
 ## Instalación
 
 1. Descomprime la descarga.
-2. Abre Obsidian → **Abrir carpeta como vault** → selecciona la carpeta descomprimida.
+2. Abre Obsidian → **Abrir una carpeta como bóveda** → selecciona la carpeta descomprimida.
 3. Desactiva el modo restringido cuando se te pregunte, luego instala Dataview (enlace abajo) y actívalo.
 4. Abre `Panel.md` — las tablas deberían poblarse con las notas de ejemplo.
 

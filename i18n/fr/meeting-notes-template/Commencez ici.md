@@ -17,7 +17,7 @@ Bienvenue. Ce vault est un système de notes de réunion pour Obsidian : trois m
 
 ## Plugins à activer
 
-1. **Dataview** (requis) — Paramètres → Plugins communautaires → Parcourir → "Dataview". Alimente le tableau de bord.
+1. **Dataview** (requis) — Paramètres → Modules complémentaires → Parcourir → "Dataview". Alimente le tableau de bord.
 2. **Templater** (optionnel) — si vous utilisez déjà Templater, pointez-le sur `Modèles/` et remplacez les variables `{{date}}` et `{{title}}` par vos commandes dynamiques préférées. Les modèles arrivent en syntaxe Templates natif pour fonctionner d'emblée.
 
 Le plugin natif **Templates** est déjà activé et pointé sur `Modèles/`.

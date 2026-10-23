@@ -24,4 +24,4 @@ type: tagesnotiz
 -
 
 > [!note]- Wie diese Vorlage funktioniert
-> Dies ist die **Templater**-Variante. Die Daten werden aus dem Dateinamen der Notiz berechnet — sie funktioniert also unabhängig davon, ob die heutige Notiz geöffnet oder eine für nächsten Dienstag angelegt wird. Einrichtung: Templater installieren, `Vorlagen` als Vorlagenordner setzen und diese Datei unter Einstellungen → Daily notes als Vorlage auswählen. Diesen Callout aus der eigenen Kopie löschen.
+> Dies ist die **Templater**-Variante. Die Daten werden aus dem Dateinamen der Notiz berechnet — sie funktioniert also unabhängig davon, ob die heutige Notiz geöffnet oder eine für nächsten Dienstag angelegt wird. Einrichtung: Templater installieren, `Vorlagen` als Vorlagenordner setzen und diese Datei unter Einstellungen → Tägliche Notizen als Vorlage auswählen. Diesen Callout aus der eigenen Kopie löschen.

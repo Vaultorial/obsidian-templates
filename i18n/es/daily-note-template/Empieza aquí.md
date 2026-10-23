@@ -22,7 +22,7 @@ El plugin core **Daily notes** ya viene configurado: las notas diarias nuevas se
 
 De serie, este vault solo usa plugins core (ya activados). Mejora opcional:
 
-- **Templater** — instálalo y actívalo, define `Plantillas` como su carpeta de plantillas en los ajustes del plugin, y apunta Daily notes (Ajustes → Daily notes → Plantilla) a `Nota diaria (Templater)`. A partir de ahí, cada nota diaria nueva trae la navegación anterior/siguiente funcionando sola.
+- **Templater** — instálalo y actívalo, define `Plantillas` como su carpeta de plantillas en los ajustes del plugin, y apunta Daily notes (Ajustes → Notas diarias → Plantilla) a `Nota diaria (Templater)`. A partir de ahí, cada nota diaria nueva trae la navegación anterior/siguiente funcionando sola.
 
 > [!tip] Conserva las secciones, cambia las preguntas
 > Los cuatro encabezados son deliberadamente sosos para que sobrevivan a los días con prisa. Si lo de Gratitud no va contigo, renómbralo a "Una cosa buena" en la plantilla — pero mantén una sección de cierre. Las notas diarias mueren cuando se quedan en una simple lista de tareas.

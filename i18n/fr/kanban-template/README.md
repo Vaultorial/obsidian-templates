@@ -19,7 +19,7 @@ Comme les tableaux Kanban sont stockés en Markdown brut, le tableau reste lisib
 
 ## Installation
 
-1. Téléchargez et décompressez le modèle : **Décompresser → Obsidian → Ouvrir le dossier comme vault**.
+1. Téléchargez et décompressez le modèle : **Décompresser → Obsidian → Ouvrir un dossier comme coffre**.
 2. Quand Obsidian le demande, activez les plugins communautaires pour ce vault.
 3. Installez le plugin Kanban et ouvrez `Tableau de projet.md`.
 

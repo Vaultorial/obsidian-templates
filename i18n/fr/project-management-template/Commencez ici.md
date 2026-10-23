@@ -18,7 +18,7 @@ Bienvenue. Ce vault est un système léger de gestion de projet pour Obsidian : 
 
 ## Plugins à activer
 
-1. **Dataview** (requis) — Paramètres → Plugins communautaires → Parcourir → "Dataview". Le tableau de bord est bâti dessus.
+1. **Dataview** (requis) — Paramètres → Modules complémentaires → Parcourir → "Dataview". Le tableau de bord est bâti dessus.
 
 Les chronologies Mermaid s'affichent grâce au support Mermaid intégré d'Obsidian — aucun plugin nécessaire. Le plugin natif **Templates** est déjà activé et pointé sur `Modèles/`.
 

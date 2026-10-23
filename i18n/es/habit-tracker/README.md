@@ -21,11 +21,11 @@ habit-tracker/
 ## Instalación
 
 1. Descomprime la descarga.
-2. Abre Obsidian → **Abrir carpeta como vault** → selecciona la carpeta descomprimida.
+2. Abre Obsidian → **Abrir una carpeta como bóveda** → selecciona la carpeta descomprimida.
 3. Confía en el vault cuando te lo pregunte (solo trae ajustes en JSON plano).
 4. Abre `Empieza aquí.md`.
 
-Si prefieres usarlo dentro de un vault existente, copia `Hábitos/` y `Plantillas/` y define `Plantillas` como tu carpeta de plantillas (Ajustes → Templates).
+Si prefieres usarlo dentro de un vault existente, copia `Hábitos/` y `Plantillas/` y define `Plantillas` como tu carpeta de plantillas (Ajustes → Plantillas).
 
 ## Plugins
 

@@ -17,7 +17,7 @@ Bienvenido. Este vault es un sistema de notas de reunión para Obsidian: tres pl
 
 ## Plugins a activar
 
-1. **Dataview** (obligatorio) — Ajustes → Plugins de la comunidad → Explorar → "Dataview". Da vida al panel.
+1. **Dataview** (obligatorio) — Ajustes → Complementos comunitarios → Buscar → "Dataview". Da vida al panel.
 2. **Templater** (opcional) — si ya usas Templater, apúntalo a `Plantillas/` y cambia las variables `{{date}}` y `{{title}}` por tus comandos dinámicos preferidos. Las plantillas vienen en sintaxis del core Templates para que funcionen de inmediato.
 
 El plugin core **Templates** ya está activado y apuntando a `Plantillas/`.

@@ -24,7 +24,7 @@ Häng einer beliebigen Aufgabe einen Kontext-Tag an, und sie taucht im passenden
 
 ## Plugins zum Aktivieren
 
-1. **Tasks** (erforderlich) — Einstellungen → Community-Plugins → Durchsuchen → "Tasks". Treibt jede Query im Dashboard an.
+1. **Tasks** (erforderlich) — Einstellungen → Externe Erweiterungen → Durchsuchen → "Tasks". Treibt jede Query im Dashboard an.
 2. **Dataview** (optional) — nur für die Projektübersichtstabelle am Ende des Dashboards verwendet. Alles andere funktioniert ohne.
 
 Das Core-Plugin **Templates** ist bereits aktiviert und auf den Ordner `Vorlagen/` gerichtet.

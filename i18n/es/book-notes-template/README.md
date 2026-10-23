@@ -15,7 +15,7 @@ book-notes-template/
 ## Instalación
 
 1. Descomprime la descarga.
-2. Abre Obsidian → **Abrir carpeta como vault** → selecciona la carpeta descomprimida.
+2. Abre Obsidian → **Abrir una carpeta como bóveda** → selecciona la carpeta descomprimida.
 3. Desactiva el modo restringido cuando se te pregunte, luego instala el plugin Dataview (enlace abajo) y actívalo.
 4. Abre `Estantería.md` — los estantes deberían renderizarse con los seis libros incluidos.
 

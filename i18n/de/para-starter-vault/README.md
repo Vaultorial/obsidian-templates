@@ -22,7 +22,7 @@ para-starter-vault/
 1. Den Download entpacken.
 2. Obsidian öffnen → **Ordner als Vault öffnen** → den entpackten Ordner auswählen.
 3. Fragt Obsidian nach dem eingeschränkten Modus, kann er aktiviert bleiben — dieser Vault nutzt keine Community-Plugins.
-4. Sicherstellen, dass das Core-Plugin **Templates** aktiviert ist (Einstellungen → Core-Plugins). Es ist bereits auf den Ordner `Vorlagen` eingestellt.
+4. Sicherstellen, dass das Core-Plugin **Templates** aktiviert ist (Einstellungen → Obsidian-Erweiterungen). Es ist bereits auf den Ordner `Vorlagen` eingestellt.
 
 ## Plugins
 

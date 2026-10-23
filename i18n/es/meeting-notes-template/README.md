@@ -23,7 +23,7 @@ meeting-notes-template/
 
 ## Instalación
 
-1. Descarga y descomprime la plantilla: **Descomprimir → Obsidian → Abrir carpeta como vault**.
+1. Descarga y descomprime la plantilla: **Descomprimir → Obsidian → Abrir una carpeta como bóveda**.
 2. Cuando Obsidian lo pregunte, activa los plugins de la comunidad para este vault.
 3. Instala Dataview y abre `Panel de reuniones.md` en vista de lectura.
 

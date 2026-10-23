@@ -18,7 +18,7 @@ daily-planner-template/
 ## Installation
 
 1. Décompressez le téléchargement.
-2. Ouvrez Obsidian → **Ouvrir le dossier comme vault** → sélectionnez le dossier décompressé.
+2. Ouvrez Obsidian → **Ouvrir un dossier comme coffre** → sélectionnez le dossier décompressé.
 3. Faites confiance au vault quand il vous le demande (il ne contient que des réglages JSON simples).
 4. Ouvrez `Commencez ici.md`, puis créez la note du jour depuis l'icône calendrier du bandeau latéral.
 

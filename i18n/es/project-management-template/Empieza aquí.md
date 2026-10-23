@@ -18,7 +18,7 @@ Bienvenido. Este vault es un sistema ligero de gestión de proyectos para Obsidi
 
 ## Plugins a activar
 
-1. **Dataview** (obligatorio) — Ajustes → Plugins de la comunidad → Explorar → "Dataview". El panel se construye sobre él.
+1. **Dataview** (obligatorio) — Ajustes → Complementos comunitarios → Buscar → "Dataview". El panel se construye sobre él.
 
 Las líneas de tiempo Mermaid se renderizan con el soporte Mermaid integrado de Obsidian — sin plugin. El plugin core **Templates** ya está activado y apuntando a `Plantillas/`.
 

@@ -10,7 +10,7 @@ Jede Cornell-Notiz besteht aus drei Callouts:
 - `> [!notes]` — die breite rechte Spalte: was live mitgeschrieben wird.
 - `> [!summary]` — das Band über die volle Breite darunter: die ganze Seite in zwei, drei eigenen Sätzen.
 
-Das mitgelieferte CSS-Snippet (`cornell`, in den Darstellungseinstellungen dieses Vaults bereits aktiviert) lässt das Cue-Callout nach links schweben, setzt das Notes-Callout daneben und räumt die Zusammenfassung darunter frei — die klassische Cornell-Seite. Auf schmalen Fenstern klappt es elegant zu gestapelten Blöcken zusammen. Wirken die Spalten auf einem breiten Fenster gestapelt, unter Einstellungen → Darstellung → CSS-Snippets prüfen, ob **cornell** an ist.
+Das mitgelieferte CSS-Snippet (`cornell`, in den Darstellungseinstellungen dieses Vaults bereits aktiviert) lässt das Cue-Callout nach links schweben, setzt das Notes-Callout daneben und räumt die Zusammenfassung darunter frei — die klassische Cornell-Seite. Auf schmalen Fenstern klappt es elegant zu gestapelten Blöcken zusammen. Wirken die Spalten auf einem breiten Fenster gestapelt, unter Einstellungen → Darstellung → CSS-Bausteine prüfen, ob **cornell** an ist.
 
 ## Ausgefüllt ansehen
 

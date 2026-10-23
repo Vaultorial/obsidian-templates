@@ -21,9 +21,9 @@ moc-template/
 ## Instalación
 
 1. Descomprime la descarga.
-2. Abre Obsidian → **Abrir carpeta como vault** → selecciona la carpeta descomprimida.
+2. Abre Obsidian → **Abrir una carpeta como bóveda** → selecciona la carpeta descomprimida.
 3. Si Obsidian pregunta por el modo restringido, mantenlo — este vault no usa plugins de la comunidad.
-4. Activa el plugin core **Templates** (Ajustes → Plugins core) para usar la plantilla de MOC.
+4. Activa el plugin core **Templates** (Ajustes → Complementos principales) para usar la plantilla de MOC.
 
 ## Plugins
 

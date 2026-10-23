@@ -22,7 +22,7 @@ Das Core-Plugin **Daily notes** ist bereits eingerichtet: Neue Tagesnotizen land
 
 Ab Werk nutzt dieser Vault nur Core-Plugins (bereits aktiviert). Optionales Upgrade:
 
-- **Templater** — installieren und aktivieren, in den Plugin-Einstellungen `Vorlagen` als Vorlagenordner setzen und Daily notes (Einstellungen → Daily notes → Vorlage) auf `Tagesnotiz (Templater)` zeigen lassen. Ab dann bekommt jede neue Tagesnotiz die Zurück-/Weiter-Navigation automatisch.
+- **Templater** — installieren und aktivieren, in den Plugin-Einstellungen `Vorlagen` als Vorlagenordner setzen und Daily notes (Einstellungen → Tägliche Notizen → Vorlage) auf `Tagesnotiz (Templater)` zeigen lassen. Ab dann bekommt jede neue Tagesnotiz die Zurück-/Weiter-Navigation automatisch.
 
 > [!tip] Abschnitte behalten, Fragen ändern
 > Die vier Überschriften sind absichtlich unspektakulär, damit sie volle Tage überleben. Wer mit Dankbarkeit nichts anfangen kann, benennt den Abschnitt in der Vorlage in "Eine gute Sache" um — ein Schlussabschnitt sollte aber bleiben. Tagesnotizen sterben, wenn sie nur noch eine Aufgabenliste sind.

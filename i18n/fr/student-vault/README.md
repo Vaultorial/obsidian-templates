@@ -21,7 +21,7 @@ Les notes portent les champs `due` et `type` dans leur frontmatter. `Tableau de 
 ## Installation
 
 1. Décompressez le téléchargement.
-2. Ouvrez Obsidian → **Ouvrir le dossier comme vault** → sélectionnez le dossier décompressé.
+2. Ouvrez Obsidian → **Ouvrir un dossier comme coffre** → sélectionnez le dossier décompressé.
 3. Désactivez le mode restreint quand on vous le demande, puis installez Dataview (lien ci-dessous) et activez-le.
 4. Ouvrez `Tableau de bord.md` — les tableaux devraient se peupler à partir des notes d'exemple.
 

@@ -15,7 +15,7 @@ book-notes-template/
 ## Installation
 
 1. Décompressez le téléchargement.
-2. Ouvrez Obsidian → **Ouvrir le dossier comme vault** → sélectionnez le dossier décompressé.
+2. Ouvrez Obsidian → **Ouvrir un dossier comme coffre** → sélectionnez le dossier décompressé.
 3. Désactivez le mode restreint quand on vous le demande, puis installez le plugin Dataview (lien ci-dessous) et activez-le.
 4. Ouvrez `Bibliothèque.md` — les étagères devraient s'afficher avec les six livres inclus.
 

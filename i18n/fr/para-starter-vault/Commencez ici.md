@@ -24,4 +24,4 @@ Tout ce que vous capturez atterrit dans l'un des cinq dossiers, classés du plus
 
 ## Plugins
 
-Aucun plugin communautaire requis. Activez le **plugin natif Templates** s'il ne l'est pas déjà (Réglages → Plugins de base → Templates) ; il pointe déjà vers le dossier `Modèles`. Les trois modèles couvrent projets, domaines et ressources.
+Aucun plugin communautaire requis. Activez le **plugin natif Templates** s'il ne l'est pas déjà (Paramètres → Modules principaux → Modèles) ; il pointe déjà vers le dossier `Modèles`. Les trois modèles couvrent projets, domaines et ressources.

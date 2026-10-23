@@ -15,7 +15,7 @@ cornell-notes-template/
 
 ## Wie es funktioniert
 
-Jede Notiz nutzt drei Callouts — `[!cue]`, `[!notes]`, `[!summary]` — und das Snippet `cornell.css` ordnet sie als klassische Cornell-Seite an: schwebende Cue-Spalte (32 %), Notizen daneben, Zusammenfassung darunter freigeräumt, auf schmalen Fenstern zu gestapelten Blöcken zusammenklappend. Das Snippet ist über `appearance.json` vorab aktiviert; umschalten lässt es sich unter Einstellungen → Darstellung → CSS-Snippets.
+Jede Notiz nutzt drei Callouts — `[!cue]`, `[!notes]`, `[!summary]` — und das Snippet `cornell.css` ordnet sie als klassische Cornell-Seite an: schwebende Cue-Spalte (32 %), Notizen daneben, Zusammenfassung darunter freigeräumt, auf schmalen Fenstern zu gestapelten Blöcken zusammenklappend. Das Snippet ist über `appearance.json` vorab aktiviert; umschalten lässt es sich unter Einstellungen → Darstellung → CSS-Bausteine.
 
 Die Mitschrift-Variante ergänzt das Frontmatter `course`, `professor` und `date`, damit Mitschriften nach Fach sortier- und durchsuchbar bleiben.
 
@@ -24,7 +24,7 @@ Die Mitschrift-Variante ergänzt das Frontmatter `course`, `professor` und `date
 1. Den Download entpacken.
 2. Obsidian öffnen → **Ordner als Vault öffnen** → den entpackten Ordner wählen.
 3. Den eingeschränkten Modus anlassen, wenn gefragt wird — hier gibt es keine Community-Plugins.
-4. Eine Notiz in `Notizen/` in der Leseansicht öffnen; es sollten zwei Spalten erscheinen. Falls nicht, das Snippet **cornell** unter Einstellungen → Darstellung → CSS-Snippets aktivieren.
+4. Eine Notiz in `Notizen/` in der Leseansicht öffnen; es sollten zwei Spalten erscheinen. Falls nicht, das Snippet **cornell** unter Einstellungen → Darstellung → CSS-Bausteine aktivieren.
 
 ## Plugins
 

@@ -20,9 +20,9 @@ para-starter-vault/
 ## Installation
 
 1. Décompressez le téléchargement.
-2. Ouvrez Obsidian → **Ouvrir le dossier comme vault** → sélectionnez le dossier décompressé.
+2. Ouvrez Obsidian → **Ouvrir un dossier comme coffre** → sélectionnez le dossier décompressé.
 3. Si Obsidian propose le mode restreint, vous pouvez le laisser activé — ce vault n'utilise aucun plugin communautaire.
-4. Vérifiez que le plugin natif **Templates** est activé (Réglages → Plugins de base). Il est déjà configuré sur le dossier `Modèles`.
+4. Vérifiez que le plugin natif **Templates** est activé (Paramètres → Modules principaux). Il est déjà configuré sur le dossier `Modèles`.
 
 ## Plugins
 

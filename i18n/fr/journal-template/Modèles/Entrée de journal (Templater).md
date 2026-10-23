@@ -17,4 +17,4 @@ type: journal
 
 > [!note]- Légende du rapid logging
 > `•` tâche · `×` tâche faite · `○` événement · `–` note · `\>` migrée (écrivez-le échappé, p. ex. `\> Arroser les plantes → [[2026-06-08]]`)
-> Variante Templater : le titre et les liens préc./suiv. sont calculés depuis le nom du fichier. Mise en place : installez Templater, définissez `Modèles` comme son dossier de modèles, puis pointez Réglages → Daily notes → Modèle vers ce fichier au lieu de la variante native. Supprimez ce callout de votre copie.
+> Variante Templater : le titre et les liens préc./suiv. sont calculés depuis le nom du fichier. Mise en place : installez Templater, définissez `Modèles` comme son dossier de modèles, puis pointez Paramètres → Notes quotidiennes → Modèle vers ce fichier au lieu de la variante native. Supprimez ce callout de votre copie.

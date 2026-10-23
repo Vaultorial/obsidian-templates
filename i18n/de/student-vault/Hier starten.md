@@ -12,7 +12,7 @@ Die Beispielnotizen sind bewusst mit korrektem, allgemeinem Material gefüllt (Z
 
 ## Erste Schritte
 
-1. Installiere und aktiviere **Dataview** (erforderlich für das [[Dashboard]]): Einstellungen → Community-Plugins → Durchsuchen → "Dataview".
+1. Installiere und aktiviere **Dataview** (erforderlich für das [[Dashboard]]): Einstellungen → Externe Erweiterungen → Durchsuchen → "Dataview".
 2. Öffne das [[Dashboard]] und prüfe, dass die Fristen- und Prüfungstabellen rendern.
 3. Lege einen Kursordner für einen deiner echten Kurse innerhalb von `Frühjahr 2026/` an (oder einen neuen Semesterordner).
 4. Mach deine nächste Vorlesung in einer Kopie von `Vorlagen/Vorlesungsnotiz.md` (Core-Templates-Plugin, bereits konfiguriert). Setz ein `due`-Datum auf alles mit Frist, und es erscheint im Dashboard.

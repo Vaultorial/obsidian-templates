@@ -12,7 +12,7 @@ Las notas de ejemplo están deliberadamente llenas de material correcto y genera
 
 ## Primeros pasos
 
-1. Instala y activa **Dataview** (obligatorio para el [[Panel]]): Ajustes → Plugins de la comunidad → Explorar → "Dataview".
+1. Instala y activa **Dataview** (obligatorio para el [[Panel]]): Ajustes → Complementos comunitarios → Buscar → "Dataview".
 2. Abre el [[Panel]] y confirma que se renderizan las tablas de entregas y exámenes.
 3. Crea una carpeta de asignatura para una de tus asignaturas reales dentro de `Primavera 2026/` (o una carpeta de cuatrimestre nueva).
 4. Toma tu próxima clase en una copia de `Plantillas/Apunte de clase.md` (plugin core Templates, ya configurado). Pon una fecha `due` en cualquier cosa con plazo y aparecerá en el panel.

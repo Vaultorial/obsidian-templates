@@ -24,4 +24,4 @@ Alles Erfasste landet in einem von fünf Ordnern, sortiert danach, wie handlungs
 
 ## Plugins
 
-Keine Community-Plugins nötig. Das **Core-Plugin Templates** aktivieren, falls noch nicht geschehen (Einstellungen → Core-Plugins → Templates); es zeigt bereits auf den Ordner `Vorlagen`. Die drei Vorlagen decken Projekte, Bereiche und Ressourcen ab.
+Keine Community-Plugins nötig. Das **Core-Plugin Templates** aktivieren, falls noch nicht geschehen (Einstellungen → Obsidian-Erweiterungen → Vorlagen); es zeigt bereits auf den Ordner `Vorlagen`. Die drei Vorlagen decken Projekte, Bereiche und Ressourcen ab.

@@ -10,7 +10,7 @@ Cada nota Cornell se construye con tres callouts:
 - `> [!notes]` — la columna ancha de la derecha: lo que capturas en directo.
 - `> [!summary]` — la franja a todo lo ancho de abajo: la página entera en dos o tres frases tuyas.
 
-El snippet CSS incluido (`cornell`, ya activado en los ajustes de apariencia de este vault) flota el callout de pistas a la izquierda, coloca el de apuntes a su lado y despeja el resumen debajo — la página Cornell clásica. En ventanas estrechas se pliega con elegancia a bloques apilados. Si las columnas se ven apiladas en una ventana ancha, revisa Ajustes → Apariencia → Snippets CSS y comprueba que **cornell** está activo.
+El snippet CSS incluido (`cornell`, ya activado en los ajustes de apariencia de este vault) flota el callout de pistas a la izquierda, coloca el de apuntes a su lado y despeja el resumen debajo — la página Cornell clásica. En ventanas estrechas se pliega con elegancia a bloques apilados. Si las columnas se ven apiladas en una ventana ancha, revisa Ajustes → Apariencia → Fragmentos de CSS y comprueba que **cornell** está activo.
 
 ## Vela rellena
 

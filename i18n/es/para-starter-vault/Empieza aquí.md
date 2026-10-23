@@ -24,4 +24,4 @@ Todo lo que capturas acaba en una de cinco carpetas, ordenadas según lo acciona
 
 ## Plugins
 
-No hacen falta plugins de la comunidad. Activa el **plugin core Templates** si no lo está ya (Ajustes → Plugins principales → Templates); ya apunta a la carpeta `Plantillas`. Las tres plantillas cubren proyectos, áreas y recursos.
+No hacen falta plugins de la comunidad. Activa el **plugin core Templates** si no lo está ya (Ajustes → Complementos principales → Plantillas); ya apunta a la carpeta `Plantillas`. Las tres plantillas cubren proyectos, áreas y recursos.

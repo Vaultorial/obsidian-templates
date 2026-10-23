@@ -19,7 +19,7 @@ Como los tableros Kanban se guardan en Markdown plano, el tablero sigue siendo l
 
 ## Instalación
 
-1. Descarga y descomprime la plantilla: **Descomprimir → Obsidian → Abrir carpeta como vault**.
+1. Descarga y descomprime la plantilla: **Descomprimir → Obsidian → Abrir una carpeta como bóveda**.
 2. Cuando Obsidian lo pregunte, activa los plugins de la comunidad para este vault.
 3. Instala el plugin Kanban y abre `Tablero de proyecto.md`.
 

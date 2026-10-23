@@ -20,9 +20,9 @@ para-starter-vault/
 ## Instalación
 
 1. Descomprime la descarga.
-2. Abre Obsidian → **Abrir carpeta como vault** → selecciona la carpeta descomprimida.
+2. Abre Obsidian → **Abrir una carpeta como bóveda** → selecciona la carpeta descomprimida.
 3. Si Obsidian pregunta por el modo restringido, puedes dejarlo activado — este vault no usa plugins de la comunidad.
-4. Comprueba que el plugin core **Templates** está activado (Ajustes → Plugins principales). Ya viene configurado para usar la carpeta `Plantillas`.
+4. Comprueba que el plugin core **Templates** está activado (Ajustes → Complementos principales). Ya viene configurado para usar la carpeta `Plantillas`.
 
 ## Plugins
 

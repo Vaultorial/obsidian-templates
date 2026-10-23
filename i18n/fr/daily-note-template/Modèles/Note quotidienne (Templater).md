@@ -24,4 +24,4 @@ type: quotidienne
 -
 
 > [!note]- Comment utiliser ce modèle
-> C'est la variante **Templater**. Les dates sont calculées depuis le nom du fichier : le modèle fonctionne donc que vous ouvriez la note du jour ou que vous en créiez une pour mardi prochain. Mise en place : installez Templater, définissez `Modèles` comme son dossier de modèles, et sélectionnez ce fichier comme modèle dans Réglages → Daily notes. Supprimez ce callout de votre copie.
+> C'est la variante **Templater**. Les dates sont calculées depuis le nom du fichier : le modèle fonctionne donc que vous ouvriez la note du jour ou que vous en créiez une pour mardi prochain. Mise en place : installez Templater, définissez `Modèles` comme son dossier de modèles, et sélectionnez ce fichier comme modèle dans Paramètres → Notes quotidiennes. Supprimez ce callout de votre copie.

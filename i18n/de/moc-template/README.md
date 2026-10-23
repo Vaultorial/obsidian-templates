@@ -23,7 +23,7 @@ moc-template/
 1. Den Download entpacken.
 2. Obsidian öffnen → **Ordner als Vault öffnen** → den entpackten Ordner wählen.
 3. Fragt Obsidian nach dem eingeschränkten Modus, anlassen — dieser Vault nutzt keine Community-Plugins.
-4. Das Core-Plugin **Templates** aktivieren (Einstellungen → Core-Plugins), um die MOC-Vorlage zu nutzen.
+4. Das Core-Plugin **Templates** aktivieren (Einstellungen → Obsidian-Erweiterungen), um die MOC-Vorlage zu nutzen.
 
 ## Plugins
 

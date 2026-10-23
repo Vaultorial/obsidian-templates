@@ -21,7 +21,7 @@ weekly-note-template/
 3. Dem Vault beim ersten Öffnen vertrauen (er enthält nur einfache JSON-Einstellungen).
 4. `Hier starten.md` öffnen.
 
-Für die Nutzung in einem bestehenden Vault die Ordner `Wochennotizen/` und `Vorlagen/` hineinkopieren und `Vorlagen` als Vorlagenordner setzen (Einstellungen → Templates).
+Für die Nutzung in einem bestehenden Vault die Ordner `Wochennotizen/` und `Vorlagen/` hineinkopieren und `Vorlagen` als Vorlagenordner setzen (Einstellungen → Vorlagen).
 
 ## Plugins
 

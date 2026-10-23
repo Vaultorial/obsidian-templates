@@ -24,7 +24,7 @@ Los contextos de GTD son etiquetas anidadas (`#contexto/casa`, `#contexto/ordena
 
 ## Instalación
 
-1. Descarga y descomprime la plantilla: **Descomprimir → Obsidian → Abrir carpeta como vault**.
+1. Descarga y descomprime la plantilla: **Descomprimir → Obsidian → Abrir una carpeta como bóveda**.
 2. Cuando Obsidian lo pregunte, activa los plugins de la comunidad para este vault.
 3. Instala los plugins listados abajo y abre `Panel.md` en vista de lectura.
 

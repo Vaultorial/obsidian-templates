@@ -22,7 +22,7 @@ Le plugin natif **Daily notes** est déjà configuré : les nouvelles notes quot
 
 Par défaut, ce vault n'utilise que des plugins natifs (déjà activés). Amélioration facultative :
 
-- **Templater** — installez-le et activez-le, définissez `Modèles` comme son dossier de modèles dans les réglages du plugin, puis pointez Daily notes (Réglages → Daily notes → Modèle) vers `Note quotidienne (Templater)`. Dès lors, chaque nouvelle note quotidienne reçoit automatiquement la navigation précédent/suivant.
+- **Templater** — installez-le et activez-le, définissez `Modèles` comme son dossier de modèles dans les réglages du plugin, puis pointez Daily notes (Paramètres → Notes quotidiennes → Modèle) vers `Note quotidienne (Templater)`. Dès lors, chaque nouvelle note quotidienne reçoit automatiquement la navigation précédent/suivant.
 
 > [!tip] Gardez les sections, changez les questions
 > Les quatre titres sont volontairement banals pour survivre aux journées chargées. Si la gratitude n'est pas votre truc, renommez la section « Une bonne chose » dans le modèle — mais gardez une section de clôture. Les notes quotidiennes meurent quand elles ne sont plus qu'une liste de tâches.

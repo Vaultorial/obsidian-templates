@@ -20,7 +20,7 @@ Permanente Notizen heißen `YYYYMMDDHHMM Titel.md` (zum Beispiel `202605141030 N
 
 1. Den Download entpacken.
 2. Obsidian öffnen → **Ordner als Vault öffnen** → den entpackten Ordner wählen.
-3. Bei Bedarf das Core-Plugin **Templates** aktivieren (Einstellungen → Core-Plugins); es zeigt bereits auf `Vorlagen`.
+3. Bei Bedarf das Core-Plugin **Templates** aktivieren (Einstellungen → Obsidian-Erweiterungen); es zeigt bereits auf `Vorlagen`.
 4. Optional: Templater installieren (unten), dann erzeugt die Vorlage für permanente Notizen ihre Zeitstempel-ID automatisch.
 
 ## Plugins

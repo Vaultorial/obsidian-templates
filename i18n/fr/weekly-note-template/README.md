@@ -17,11 +17,11 @@ weekly-note-template/
 ## Installation
 
 1. Décompressez le téléchargement.
-2. Ouvrez Obsidian → **Ouvrir le dossier comme vault** → sélectionnez le dossier décompressé.
+2. Ouvrez Obsidian → **Ouvrir un dossier comme coffre** → sélectionnez le dossier décompressé.
 3. Faites confiance au vault quand il vous le demande (il ne contient que des réglages JSON simples).
 4. Ouvrez `Commencez ici.md`.
 
-Pour l'utiliser dans un vault existant, copiez-y `Hebdomadaire/` et `Modèles/`, puis définissez `Modèles` comme dossier de modèles (Réglages → Templates).
+Pour l'utiliser dans un vault existant, copiez-y `Hebdomadaire/` et `Modèles/`, puis définissez `Modèles` comme dossier de modèles (Paramètres → Modèles).
 
 ## Plugins
 

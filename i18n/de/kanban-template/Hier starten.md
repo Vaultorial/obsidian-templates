@@ -9,7 +9,7 @@ Willkommen. Dieser Vault ist ein minimales, funktionierendes Kanban-Setup für O
 
 ## Plugins zum Aktivieren
 
-1. **Kanban** (erforderlich) — Einstellungen → Community-Plugins → Durchsuchen → "Kanban". Ohne es öffnet sich [[Projekt-Board]] als schlichte Markdown-Liste — deine Daten sind nie eingesperrt, was der halbe Grund ist, dieses Plugin zu mögen.
+1. **Kanban** (erforderlich) — Einstellungen → Externe Erweiterungen → Durchsuchen → "Kanban". Ohne es öffnet sich [[Projekt-Board]] als schlichte Markdown-Liste — deine Daten sind nie eingesperrt, was der halbe Grund ist, dieses Plugin zu mögen.
 
 ## Der Karte-zu-Notiz-Workflow
 

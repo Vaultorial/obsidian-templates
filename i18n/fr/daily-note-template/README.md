@@ -19,7 +19,7 @@ daily-note-template/
 ## Installation
 
 1. Décompressez le téléchargement.
-2. Ouvrez Obsidian → **Ouvrir le dossier comme vault** → sélectionnez le dossier décompressé.
+2. Ouvrez Obsidian → **Ouvrir un dossier comme coffre** → sélectionnez le dossier décompressé.
 3. Faites confiance au vault quand Obsidian le demande (il ne contient que des réglages JSON ordinaires).
 4. Ouvrez `Commencez ici.md`.
 

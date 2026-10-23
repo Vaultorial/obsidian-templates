@@ -17,7 +17,7 @@ Willkommen. Dieser Vault ist ein System für Besprechungsnotizen für Obsidian: 
 
 ## Plugins zum Aktivieren
 
-1. **Dataview** (erforderlich) — Einstellungen → Community-Plugins → Durchsuchen → "Dataview". Treibt das Dashboard an.
+1. **Dataview** (erforderlich) — Einstellungen → Externe Erweiterungen → Durchsuchen → "Dataview". Treibt das Dashboard an.
 2. **Templater** (optional) — wenn du Templater bereits nutzt, richte es auf `Vorlagen/` und tausch die Variablen `{{date}}` und `{{title}}` gegen deine bevorzugten dynamischen Befehle. Die Vorlagen kommen in Core-Templates-Syntax, damit sie sofort funktionieren.
 
 Das Core-Plugin **Templates** ist bereits aktiviert und auf `Vorlagen/` gerichtet.

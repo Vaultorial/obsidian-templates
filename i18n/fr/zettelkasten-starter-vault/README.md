@@ -19,8 +19,8 @@ Les notes permanentes se nomment `YYYYMMDDHHMM Titre.md` (par exemple `202605141
 ## Installation
 
 1. Décompressez le téléchargement.
-2. Ouvrez Obsidian → **Ouvrir le dossier comme vault** → sélectionnez le dossier décompressé.
-3. Activez le plugin natif **Templates** si besoin (Réglages → Plugins de base) ; il pointe déjà vers `Modèles`.
+2. Ouvrez Obsidian → **Ouvrir un dossier comme coffre** → sélectionnez le dossier décompressé.
+3. Activez le plugin natif **Templates** si besoin (Paramètres → Modules principaux) ; il pointe déjà vers `Modèles`.
 4. Optionnel : installez Templater (ci-dessous) et le modèle de note permanente générera son identifiant horodaté automatiquement.
 
 ## Plugins

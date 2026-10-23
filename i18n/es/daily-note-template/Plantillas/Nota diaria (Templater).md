@@ -24,4 +24,4 @@ type: diaria
 -
 
 > [!note]- Cómo usar esta plantilla
-> Esta es la variante de **Templater**. Las fechas se calculan a partir del nombre del fichero, así que funciona igual si abres la nota de hoy o creas una para el martes que viene. Configuración: instala Templater, define `Plantillas` como su carpeta de plantillas y selecciona este fichero como plantilla en Ajustes → Daily notes. Borra este callout de tu copia.
+> Esta es la variante de **Templater**. Las fechas se calculan a partir del nombre del fichero, así que funciona igual si abres la nota de hoy o creas una para el martes que viene. Configuración: instala Templater, define `Plantillas` como su carpeta de plantillas y selecciona este fichero como plantilla en Ajustes → Notas diarias. Borra este callout de tu copia.

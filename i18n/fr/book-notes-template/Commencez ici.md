@@ -15,7 +15,7 @@ Six livres sont déjà là, dans des états différents, pour que chaque étagè
 
 ## Premiers pas
 
-1. Installez et activez **Dataview** (requis — la [[Bibliothèque]] est vide sans lui) : Paramètres → Plugins communautaires → Parcourir → "Dataview".
+1. Installez et activez **Dataview** (requis — la [[Bibliothèque]] est vide sans lui) : Paramètres → Modules complémentaires → Parcourir → "Dataview".
 2. Ouvrez la [[Bibliothèque]] et confirmez que les étagères s'affichent.
 3. Ajoutez le livre que vous lisez en ce moment : nouvelle note dans `Livres/` nommée d'après le titre, insérez `Modèles/Note de livre.md` (plugin natif Templates, déjà configuré), remplissez le frontmatter, mettez `status: en cours`.
 4. Optionnel : installez **Book Search** pour créer des notes de livre avec auteur et métadonnées préremplis depuis une recherche par titre.

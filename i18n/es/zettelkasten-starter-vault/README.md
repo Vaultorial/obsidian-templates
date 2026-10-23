@@ -19,8 +19,8 @@ Las notas permanentes se llaman `YYYYMMDDHHMM Título.md` (por ejemplo `20260514
 ## Instalación
 
 1. Descomprime la descarga.
-2. Abre Obsidian → **Abrir carpeta como vault** → selecciona la carpeta descomprimida.
-3. Activa el plugin core **Templates** si hace falta (Ajustes → Plugins principales); ya apunta a `Plantillas`.
+2. Abre Obsidian → **Abrir una carpeta como bóveda** → selecciona la carpeta descomprimida.
+3. Activa el plugin core **Templates** si hace falta (Ajustes → Complementos principales); ya apunta a `Plantillas`.
 4. Opcional: instala Templater (abajo) y la plantilla de nota permanente generará su ID de marca de tiempo automáticamente.
 
 ## Plugins

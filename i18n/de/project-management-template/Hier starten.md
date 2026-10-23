@@ -18,7 +18,7 @@ Willkommen. Dieser Vault ist ein leichtgewichtiges Projektmanagementsystem für 
 
 ## Plugins zum Aktivieren
 
-1. **Dataview** (erforderlich) — Einstellungen → Community-Plugins → Durchsuchen → "Dataview". Das Dashboard baut darauf auf.
+1. **Dataview** (erforderlich) — Einstellungen → Externe Erweiterungen → Durchsuchen → "Dataview". Das Dashboard baut darauf auf.
 
 Mermaid-Zeitleisten werden mit Obsidians eingebauter Mermaid-Unterstützung gerendert — kein Plugin nötig. Das Core-Plugin **Templates** ist bereits aktiviert und auf `Vorlagen/` gerichtet.
 

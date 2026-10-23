@@ -15,16 +15,16 @@ cornell-notes-template/
 
 ## Cómo funciona
 
-Cada nota usa tres callouts — `[!cue]`, `[!notes]`, `[!summary]` — y el snippet `cornell.css` los dispone como la página Cornell clásica: columna de pistas flotada (32 %), apuntes al lado, resumen despejado debajo, plegándose a bloques apilados en ventanas estrechas. El snippet viene preactivado vía `appearance.json`; se puede alternar en Ajustes → Apariencia → Snippets CSS.
+Cada nota usa tres callouts — `[!cue]`, `[!notes]`, `[!summary]` — y el snippet `cornell.css` los dispone como la página Cornell clásica: columna de pistas flotada (32 %), apuntes al lado, resumen despejado debajo, plegándose a bloques apilados en ventanas estrechas. El snippet viene preactivado vía `appearance.json`; se puede alternar en Ajustes → Apariencia → Fragmentos de CSS.
 
 La variante de apuntes de clase añade el frontmatter `course`, `professor` y `date` para que los apuntes sigan siendo ordenables y buscables por asignatura.
 
 ## Instalación
 
 1. Descomprime la descarga.
-2. Abre Obsidian → **Abrir carpeta como vault** → selecciona la carpeta descomprimida.
+2. Abre Obsidian → **Abrir una carpeta como bóveda** → selecciona la carpeta descomprimida.
 3. Mantén el modo restringido si te lo pregunta — aquí no hay plugins de la comunidad.
-4. Abre una nota de `Apuntes/` en vista de lectura; deberías ver dos columnas. Si no, activa el snippet **cornell** en Ajustes → Apariencia → Snippets CSS.
+4. Abre una nota de `Apuntes/` en vista de lectura; deberías ver dos columnas. Si no, activa el snippet **cornell** en Ajustes → Apariencia → Fragmentos de CSS.
 
 ## Plugins
 

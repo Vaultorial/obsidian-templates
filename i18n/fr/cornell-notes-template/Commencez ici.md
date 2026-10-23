@@ -10,7 +10,7 @@ Chaque note Cornell est bâtie sur trois callouts :
 - `> [!notes]` — la colonne large de droite : ce que vous capturez en direct.
 - `> [!summary]` — le bandeau pleine largeur en bas : toute la page en deux ou trois phrases à vous.
 
-Le snippet CSS inclus (`cornell`, déjà activé dans les réglages d'apparence de ce vault) fait flotter le callout d'indices à gauche, place celui des notes à côté et dégage le résumé en dessous — la page Cornell classique. Sur les fenêtres étroites, il se replie élégamment en blocs empilés. Si les colonnes apparaissent empilées sur une fenêtre large, vérifiez dans Réglages → Apparence → Snippets CSS que **cornell** est activé.
+Le snippet CSS inclus (`cornell`, déjà activé dans les réglages d'apparence de ce vault) fait flotter le callout d'indices à gauche, place celui des notes à côté et dégage le résumé en dessous — la page Cornell classique. Sur les fenêtres étroites, il se replie élégamment en blocs empilés. Si les colonnes apparaissent empilées sur une fenêtre large, vérifiez dans Paramètres → Apparence → Extraits de CSS que **cornell** est activé.
 
 ## La voir remplie
 

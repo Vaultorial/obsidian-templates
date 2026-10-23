@@ -21,7 +21,7 @@ journal-template/
 ## Installation
 
 1. Décompressez le téléchargement.
-2. Ouvrez Obsidian → **Ouvrir un dossier comme vault** → sélectionnez le dossier décompressé.
+2. Ouvrez Obsidian → **Ouvrir un dossier comme coffre** → sélectionnez le dossier décompressé.
 3. Faites confiance au vault quand Obsidian le demande (il ne contient que des réglages JSON bruts).
 4. Ouvrez `Commencez ici.md`, puis cliquez sur l'icône calendrier pour l'entrée du jour.
 

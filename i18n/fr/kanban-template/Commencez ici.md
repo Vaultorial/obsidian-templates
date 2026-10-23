@@ -9,7 +9,7 @@ Bienvenue. Ce vault est un montage Kanban minimal et fonctionnel pour Obsidian :
 
 ## Plugins à activer
 
-1. **Kanban** (requis) — Paramètres → Plugins communautaires → Parcourir → "Kanban". Sans lui, [[Tableau de projet]] s'ouvre comme une simple liste Markdown — vos données ne sont jamais enfermées, ce qui est la moitié de la raison d'apprécier ce plugin.
+1. **Kanban** (requis) — Paramètres → Modules complémentaires → Parcourir → "Kanban". Sans lui, [[Tableau de projet]] s'ouvre comme une simple liste Markdown — vos données ne sont jamais enfermées, ce qui est la moitié de la raison d'apprécier ce plugin.
 
 ## Le flux carte-vers-note
 
