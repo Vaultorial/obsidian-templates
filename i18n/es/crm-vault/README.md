@@ -19,7 +19,7 @@ Fases de oportunidad que usa el vault: `lead`, `cualificado`, `propuesta`, `nego
 
 - Dataview — https://obsidian.md/plugins?id=dataview
 
-1. Descomprime la descarga y, en Obsidian, elige **Abrir carpeta como vault**.
+1. Descomprime la descarga y, en Obsidian, elige **Abrir una carpeta como bóveda**.
 2. Activa los plugins de la comunidad para este vault cuando te lo pida.
 3. Instala y activa **Dataview** y abre el Panel CRM en vista de lectura.
 

@@ -19,7 +19,7 @@ Un CRM personnel pour Obsidian : contacts, entreprises, affaires et un journal d
 
 - Dataview — https://obsidian.md/plugins?id=dataview
 
-1. Décompressez le téléchargement puis, dans Obsidian, choisissez **Ouvrir un dossier comme vault**.
+1. Décompressez le téléchargement puis, dans Obsidian, choisissez **Ouvrir un dossier comme coffre**.
 2. Activez les plugins communautaires pour ce vault quand Obsidian le demande.
 3. Installez et activez **Dataview**, puis ouvrez le Tableau de bord CRM en mode lecture.
 
