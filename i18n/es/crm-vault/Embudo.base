@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.inFolder("Oportunidades")
+views:
+  - type: table
+    name: Embudo
+    groupBy:
+      property: stage
+      direction: ASC
+    order:
+      - file.name
+      - company
+      - contact
+      - value
+      - close_date

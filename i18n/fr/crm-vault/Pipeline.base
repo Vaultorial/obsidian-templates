@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.inFolder("Affaires")
+views:
+  - type: table
+    name: Pipeline
+    groupBy:
+      property: stage
+      direction: ASC
+    order:
+      - file.name
+      - company
+      - contact
+      - value
+      - close_date
