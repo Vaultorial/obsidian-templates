@@ -35,6 +35,8 @@ project-management-template/
 
 Las líneas de tiempo Gantt usan el renderizado Mermaid integrado de Obsidian; sin plugin extra.
 
+Las versiones actuales de Obsidian piden permiso una vez por vault antes de dibujar diagramas Mermaid. Cuando una nota de proyecto muestre ¿Mostrar diagramas Mermaid en esta bóveda?, acepta, o activa Mostrar diagramas Mermaid en las notas en Ajustes, Editor.
+
 ## Licencia
 
 MIT. Úsalo, cámbialo, compártelo — la atribución se agradece pero no es obligatoria.

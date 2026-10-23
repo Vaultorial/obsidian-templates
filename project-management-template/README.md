@@ -35,6 +35,8 @@ project-management-template/
 
 Gantt timelines use Obsidian's built-in Mermaid rendering; no extra plugin needed.
 
+Current versions of Obsidian ask once per vault before drawing Mermaid diagrams. When a project note shows "Display Mermaid diagrams in this vault?", choose Allow, or switch on "Display Mermaid diagrams in notes" under Settings, Editor.
+
 ## License
 
 MIT. Use it, change it, share it — attribution appreciated but not required.

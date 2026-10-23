@@ -35,6 +35,8 @@ project-management-template/
 
 Les chronologies Gantt utilisent le rendu Mermaid intégré d'Obsidian ; aucun plugin supplémentaire nécessaire.
 
+Les versions actuelles d'Obsidian demandent une autorisation une fois par vault avant de dessiner un diagramme Mermaid. Quand une note de projet affiche Afficher les diagrammes Mermaid dans ce coffre ?, acceptez, ou activez Afficher les diagrammes Mermaid dans les notes dans Paramètres, Éditeur.
+
 ## Licence
 
 MIT. Utilisez-le, modifiez-le, partagez-le — attribution appréciée mais non requise.

@@ -22,6 +22,8 @@ Willkommen. Dieser Vault ist ein leichtgewichtiges Projektmanagementsystem für 
 
 Mermaid-Zeitleisten werden mit Obsidians eingebauter Mermaid-Unterstützung gerendert — kein Plugin nötig. Das Core-Plugin **Templates** ist bereits aktiviert und auf `Vorlagen/` gerichtet.
 
+Aktuelle Obsidian-Versionen fragen einmal pro Vault, bevor sie Mermaid-Diagramme zeichnen. Zeigt eine Projektnotiz Mermaid-Diagramme in diesem Vault anzeigen?, bestätigst du, oder du schaltest unter Einstellungen, Editor die Option Mermaid-Diagramme in Notizen anzeigen ein.
+
 ## Erste Schritte
 
 1. Aktiviere Dataview und öffne das [[Dashboard]] in der Leseansicht. Jede Tabelle sollte gefüllt sein.

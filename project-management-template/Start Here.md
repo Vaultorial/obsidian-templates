@@ -22,6 +22,8 @@ Welcome. This vault is a lightweight project management system for Obsidian: one
 
 Mermaid timelines render with Obsidian's built-in Mermaid support — no plugin needed. The **Templates** core plugin is already enabled and pointed at `Templates/`.
 
+Current versions of Obsidian ask once per vault before drawing Mermaid diagrams. When a project note shows "Display Mermaid diagrams in this vault?", choose Allow, or switch on "Display Mermaid diagrams in notes" under Settings, Editor.
+
 ## First steps
 
 1. Enable Dataview, then open [[Dashboard]] in reading view. Every table should be populated.

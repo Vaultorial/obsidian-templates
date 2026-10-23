@@ -35,6 +35,8 @@ project-management-template/
 
 Gantt-Zeitleisten nutzen Obsidians eingebautes Mermaid-Rendering; kein zusätzliches Plugin nötig.
 
+Aktuelle Obsidian-Versionen fragen einmal pro Vault, bevor sie Mermaid-Diagramme zeichnen. Zeigt eine Projektnotiz Mermaid-Diagramme in diesem Vault anzeigen?, bestätigst du, oder du schaltest unter Einstellungen, Editor die Option Mermaid-Diagramme in Notizen anzeigen ein.
+
 ## Lizenz
 
 MIT. Nutzen, verändern, weitergeben — Namensnennung willkommen, aber nicht erforderlich.

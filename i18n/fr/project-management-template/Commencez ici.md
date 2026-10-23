@@ -22,6 +22,8 @@ Bienvenue. Ce vault est un système léger de gestion de projet pour Obsidian : 
 
 Les chronologies Mermaid s'affichent grâce au support Mermaid intégré d'Obsidian — aucun plugin nécessaire. Le plugin natif **Templates** est déjà activé et pointé sur `Modèles/`.
 
+Les versions actuelles d'Obsidian demandent une autorisation une fois par vault avant de dessiner un diagramme Mermaid. Quand une note de projet affiche Afficher les diagrammes Mermaid dans ce coffre ?, acceptez, ou activez Afficher les diagrammes Mermaid dans les notes dans Paramètres, Éditeur.
+
 ## Premiers pas
 
 1. Activez Dataview et ouvrez le [[Tableau de bord]] en mode lecture. Chaque tableau devrait être rempli.

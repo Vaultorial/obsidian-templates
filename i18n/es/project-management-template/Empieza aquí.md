@@ -22,6 +22,8 @@ Bienvenido. Este vault es un sistema ligero de gestión de proyectos para Obsidi
 
 Las líneas de tiempo Mermaid se renderizan con el soporte Mermaid integrado de Obsidian — sin plugin. El plugin core **Templates** ya está activado y apuntando a `Plantillas/`.
 
+Las versiones actuales de Obsidian piden permiso una vez por vault antes de dibujar diagramas Mermaid. Cuando una nota de proyecto muestre ¿Mostrar diagramas Mermaid en esta bóveda?, acepta, o activa Mostrar diagramas Mermaid en las notas en Ajustes, Editor.
+
 ## Primeros pasos
 
 1. Activa Dataview y abre el [[Panel]] en vista de lectura. Cada tabla debería poblarse.
