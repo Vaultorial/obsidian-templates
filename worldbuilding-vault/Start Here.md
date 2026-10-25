@@ -1,6 +1,6 @@
 # Start Here
 
-Welcome. This vault is a worldbuilding system for writers and game masters, demonstrated with a complete original setting: **The Tide Courts**, a low-magic world of estuary city-states ruled by tide-law. Around twenty interlinked notes — places, characters, factions and a linked chronology — show the method working at full density. Open the graph view first: a world should look like a web, and this one does.
+Welcome. This vault is a worldbuilding system for writers and game masters, demonstrated with a complete original setting: **The Tide Courts**, a low-magic world of estuary city-states ruled by tide-law. Two dozen interlinked notes — places, characters, factions and a linked chronology — show the method working at full density. Open the graph view first: a world should look like a web, and this one does.
 
 ## How the vault is organized
 
@@ -8,6 +8,9 @@ Welcome. This vault is a worldbuilding system for writers and game masters, demo
 - `Characters/` — one note per person, each linked to a `home` (a place) and a `faction`.
 - `Factions/` — the powers. Each has a `seat` (a place) and a `leader` (a character).
 - `Events/` — the chronology. Each event carries a `year`, a `location` and a `participants` list, so the timeline assembles itself.
+- `Cultures/` — peoples and ways of life, each tied to a `homeland` and its `beliefs`.
+- `Beliefs/` — faiths and observances, with their `followers` and `holy-place`.
+- `Items/` — objects that matter to the plot, with who holds them (`held-by`), where they are kept and where they came from.
 - `Maps/` — empty on purpose; see the note inside for how to add your maps.
 - [[World Index]] — the master MOC: every entity from one page, plus Dataview rollups.
 - [[Timeline]] — the chronology, queried and narrated.

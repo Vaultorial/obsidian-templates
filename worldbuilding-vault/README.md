@@ -1,6 +1,6 @@
 # Worldbuilding Vault — Obsidian Template
 
-A worldbuilding system for novelists, game masters and setting tinkerers, built on relational frontmatter: every place, character, faction and event declares its connections, so the graph view shows your world's true shape and Dataview assembles indexes and timelines for you. Ships fully demonstrated with **The Tide Courts** — an original low-magic setting of about twenty densely interlinked notes: six places, seven characters, three factions and a five-event chronology heading toward a crisis.
+A worldbuilding system for novelists, game masters and setting tinkerers, built on relational frontmatter: every place, character, faction and event declares its connections, so the graph view shows your world's true shape and Dataview assembles indexes and timelines for you. Ships fully demonstrated with **The Tide Courts** — an original low-magic setting of two dozen densely interlinked notes: six places, seven characters, three factions, a culture, a belief, a contested object and a five-event chronology heading toward a crisis.
 
 ## Structure
 
@@ -13,8 +13,11 @@ worldbuilding-vault/
 ├── Characters/        ← 7 people (home, faction, role)
 ├── Factions/          ← 3 powers (seat, leader)
 ├── Events/            ← 5 events (year, location, participants)
+├── Cultures/          ← 1 culture (homeland, beliefs)
+├── Beliefs/           ← 1 belief (followers, holy-place)
+├── Items/             ← 1 object (held-by, location, origin)
 ├── Maps/              ← empty; note inside explains where maps go
-└── Templates/         ← Place, Character, Faction, Event
+└── Templates/         ← Place, Character, Faction, Event, Culture, Belief, Item
 ```
 
 ## Installation
@@ -31,7 +34,7 @@ worldbuilding-vault/
 
 **Optional**
 
-- Timelines — https://obsidian.md/plugins?id=obsidian-timelines (visual timelines; the queried chronology works without it)
+- Timelines — https://obsidian.md/plugins?id=timelines-revamped (visual timelines; the queried chronology works without it)
 
 ## License
 

@@ -41,6 +41,18 @@ FROM "Personnages"
 GROUP BY faction
 ```
 
+## Cultures, croyances et objets
+
+- [[Le Peuple des pilotis de Basmarche]] — les familles de la baie, qui vivent au rythme de la planchette des marées.
+- [[La Veille des Cloches]] — la promesse tenue sur la chaussée : on doit un son aux noyés.
+- [[Les Cartes maîtresses]] — douze feuilles dans une presse fermée qui décident quand la terre existe.
+
+```dataview
+TABLE held-by AS "Détenu par", location AS "Gardé à", status AS "Statut"
+FROM "Objets"
+SORT file.name ASC
+```
+
 ## Chronologie
 
 La version racontée complète vit dans [[Chronologie]].

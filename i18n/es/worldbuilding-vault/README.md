@@ -1,6 +1,6 @@
 # Vault de worldbuilding — Plantilla para Obsidian
 
-Un sistema de worldbuilding para novelistas, directores de juego y artesanos de ambientaciones, construido sobre frontmatter relacional: cada lugar, personaje, facción y evento declara sus conexiones, de modo que la vista de grafo enseña la forma verdadera de tu mundo y Dataview ensambla índices y cronologías por ti. Viene demostrado por completo con **Las Cortes de la Marea** — una ambientación original de magia escasa con una veintena de notas densamente interenlazadas: seis lugares, siete personajes, tres facciones y una cronología de cinco eventos que se encamina hacia una crisis.
+Un sistema de worldbuilding para novelistas, directores de juego y artesanos de ambientaciones, construido sobre frontmatter relacional: cada lugar, personaje, facción y evento declara sus conexiones, de modo que la vista de grafo enseña la forma verdadera de tu mundo y Dataview ensambla índices y cronologías por ti. Viene demostrado por completo con **Las Cortes de la Marea** — una ambientación original de magia escasa con dos docenas de notas densamente interenlazadas: seis lugares, siete personajes, tres facciones, una cultura, una creencia, un objeto en disputa y una cronología de cinco eventos que se encamina hacia una crisis.
 
 ## Estructura
 
@@ -13,8 +13,11 @@ worldbuilding-vault/
 ├── Personajes/           ← 7 personas (home, faction, role)
 ├── Facciones/            ← 3 poderes (seat, leader)
 ├── Eventos/              ← 5 eventos (year, location, participants)
+├── Culturas/          ← 1 cultura (homeland, beliefs)
+├── Creencias/         ← 1 creencia (followers, holy-place)
+├── Objetos/           ← 1 objeto (held-by, location, origin)
 ├── Mapas/                ← vacía; la nota de dentro explica dónde van los mapas
-└── Plantillas/           ← lugar, personaje, facción, evento
+└── Plantillas/           ← lugar, personaje, facción, evento, cultura, creencia, objeto
 ```
 
 ## Instalación

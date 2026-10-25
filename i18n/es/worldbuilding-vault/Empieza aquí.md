@@ -1,6 +1,6 @@
 # Empieza aquí
 
-Bienvenido. Este vault es un sistema de worldbuilding para escritores y directores de juego, demostrado con una ambientación original completa: **Las Cortes de la Marea**, un mundo de magia escasa hecho de ciudades-estado de estuario gobernadas por la ley de mareas. Una veintena de notas interenlazadas — lugares, personajes, facciones y una cronología enlazada — enseña el método funcionando a plena densidad. Abre primero la vista de grafo: un mundo debería parecer una red, y este lo parece.
+Bienvenido. Este vault es un sistema de worldbuilding para escritores y directores de juego, demostrado con una ambientación original completa: **Las Cortes de la Marea**, un mundo de magia escasa hecho de ciudades-estado de estuario gobernadas por la ley de mareas. Dos docenas de notas interenlazadas — lugares, personajes, facciones y una cronología enlazada — enseña el método funcionando a plena densidad. Abre primero la vista de grafo: un mundo debería parecer una red, y este lo parece.
 
 ## Cómo está organizado el vault
 
@@ -8,6 +8,9 @@ Bienvenido. Este vault es un sistema de worldbuilding para escritores y director
 - `Personajes/` — una nota por persona, cada una enlazada a un `home` (un lugar) y a una `faction`.
 - `Facciones/` — los poderes. Cada uno tiene una `seat` (un lugar) y un `leader` (un personaje).
 - `Eventos/` — la cronología. Cada evento lleva `year`, `location` y una lista de `participants`, de modo que la línea temporal se ensambla sola.
+- `Culturas/` — pueblos y modos de vida, cada uno atado a su `homeland` y sus `beliefs`.
+- `Creencias/` — fes y observancias, con sus `followers` y su `holy-place`.
+- `Objetos/` — objetos que importan a la trama, con quién los tiene (`held-by`), dónde se guardan y de dónde vienen.
 - `Mapas/` — vacía a propósito; la nota de dentro explica cómo añadir tus mapas.
 - [[Índice del mundo]] — el MOC maestro: todas las entidades desde una página, más resúmenes de Dataview.
 - [[Cronología]] — la línea del tiempo, consultada y narrada.

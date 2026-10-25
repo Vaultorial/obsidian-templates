@@ -41,6 +41,18 @@ FROM "Personajes"
 GROUP BY faction
 ```
 
+## Culturas, creencias y objetos
+
+- [[Los palafiteros de Bajamarca]] — las familias de la bahía, que viven pendientes de la tablilla de mareas.
+- [[La Vigilia de las Campanas]] — la promesa que se cumple en la calzada: a los ahogados se les debe un sonido.
+- [[Las Cartas Maestras]] — doce pliegos en una prensa cerrada que deciden cuándo existe la tierra.
+
+```dataview
+TABLE held-by AS "En manos de", location AS "Guardado en", status AS "Estado"
+FROM "Objetos"
+SORT file.name ASC
+```
+
 ## Cronología
 
 La versión narrada completa vive en [[Cronología]].

@@ -41,6 +41,18 @@ FROM "Charaktere"
 GROUP BY faction
 ```
 
+## Kulturen, Glauben und Gegenstände
+
+- [[Das Pfahlvolk von Niedermark]] — die Familien der Bucht, die nach dem Tidenbrett leben.
+- [[Die Glockenwache]] — das Versprechen am Damm: Den Ertrunkenen schuldet man einen Klang.
+- [[Die Meisterkarten]] — zwölf Bögen in einer verschlossenen Presse, die entscheiden, wann Land existiert.
+
+```dataview
+TABLE held-by AS "In Händen von", location AS "Aufbewahrt in", status AS "Status"
+FROM "Gegenstände"
+SORT file.name ASC
+```
+
 ## Chronologie
 
 Die vollständig erzählte Fassung lebt in der [[Zeitleiste]].

@@ -1,6 +1,6 @@
 # Commencez ici
 
-Bienvenue. Ce vault est un système de worldbuilding pour écrivains et meneurs de jeu, démontré avec un décor original complet : **Les Cours des Marées**, un monde de magie rare fait de cités-États d'estuaire gouvernées par la loi des marées. Une vingtaine de notes interconnectées — lieux, personnages, factions et une chronologie liée — montrent la méthode à pleine densité. Ouvrez d'abord la vue graphique : un monde devrait ressembler à une toile, et c'est le cas de celui-ci.
+Bienvenue. Ce vault est un système de worldbuilding pour écrivains et meneurs de jeu, démontré avec un décor original complet : **Les Cours des Marées**, un monde de magie rare fait de cités-États d'estuaire gouvernées par la loi des marées. Deux douzaines de notes interconnectées — lieux, personnages, factions et une chronologie liée — montrent la méthode à pleine densité. Ouvrez d'abord la vue graphique : un monde devrait ressembler à une toile, et c'est le cas de celui-ci.
 
 ## Comment le vault est organisé
 
@@ -8,6 +8,9 @@ Bienvenue. Ce vault est un système de worldbuilding pour écrivains et meneurs 
 - `Personnages/` — une note par personne, chacune liée à un `home` (un lieu) et à une `faction`.
 - `Factions/` — les puissances. Chacune a un `seat` (un lieu) et un `leader` (un personnage).
 - `Événements/` — la chronologie. Chaque événement porte `year`, `location` et une liste `participants`, si bien que la frise s'assemble toute seule.
+- `Cultures/` — peuples et modes de vie, chacun rattaché à son `homeland` et à ses `beliefs`.
+- `Croyances/` — fois et pratiques, avec leurs `followers` et leur `holy-place`.
+- `Objets/` — les objets qui comptent pour l'intrigue, avec qui les détient (`held-by`), où ils sont gardés et d'où ils viennent.
 - `Cartes/` — vide à dessein ; la note à l'intérieur explique comment ajouter vos cartes.
 - [[Index du monde]] — le MOC maître : toutes les entités depuis une seule page, plus des synthèses Dataview.
 - [[Chronologie]] — la frise, requêtée et racontée.

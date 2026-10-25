@@ -1,6 +1,6 @@
 # Hier starten
 
-Willkommen. Dieser Vault ist ein Worldbuilding-System für Autorinnen, Autoren und Spielleitungen, demonstriert mit einem vollständigen Original-Setting: **Die Gezeitenhöfe**, eine niedermagische Welt aus Mündungsstadtstaaten, die das Gezeitenrecht regiert. Rund zwanzig verknüpfte Notizen — Orte, Charaktere, Fraktionen und eine verlinkte Chronologie — zeigen die Methode bei voller Dichte. Zuerst die Graphenansicht öffnen: Eine Welt sollte wie ein Netz aussehen, und diese tut es.
+Willkommen. Dieser Vault ist ein Worldbuilding-System für Autorinnen, Autoren und Spielleitungen, demonstriert mit einem vollständigen Original-Setting: **Die Gezeitenhöfe**, eine niedermagische Welt aus Mündungsstadtstaaten, die das Gezeitenrecht regiert. Zwei Dutzend verknüpfte Notizen — Orte, Charaktere, Fraktionen und eine verlinkte Chronologie — zeigen die Methode bei voller Dichte. Zuerst die Graphenansicht öffnen: Eine Welt sollte wie ein Netz aussehen, und diese tut es.
 
 ## Wie der Vault organisiert ist
 
@@ -8,6 +8,9 @@ Willkommen. Dieser Vault ist ein Worldbuilding-System für Autorinnen, Autoren u
 - `Charaktere/` — eine Notiz pro Person, jede verlinkt mit einem `home` (einem Ort) und einer `faction`.
 - `Fraktionen/` — die Mächte. Jede hat einen `seat` (einen Ort) und einen `leader` (einen Charakter).
 - `Ereignisse/` — die Chronologie. Jedes Ereignis trägt `year`, `location` und eine `participants`-Liste, sodass die Zeitleiste sich selbst zusammensetzt.
+- `Kulturen/` — Völker und Lebensweisen, jeweils mit `homeland` und `beliefs`.
+- `Glauben/` — Glaubensformen und Bräuche, mit `followers` und `holy-place`.
+- `Gegenstände/` — Dinge, auf die es in der Handlung ankommt, mit Besitzer (`held-by`), Aufbewahrungsort und Herkunft.
 - `Karten/` — absichtlich leer; die Notiz darin erklärt, wie eigene Karten hineinkommen.
 - [[Weltindex]] — der Master-MOC: alle Entitäten von einer Seite aus, plus Dataview-Übersichten.
 - [[Zeitleiste]] — die Chronologie, abgefragt und erzählt.

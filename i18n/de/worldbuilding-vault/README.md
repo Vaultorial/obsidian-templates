@@ -1,6 +1,6 @@
 # Worldbuilding-Vault — Obsidian-Vorlage
 
-Ein Worldbuilding-System für Romanautoren, Spielleitungen und Settingbastler, gebaut auf relationalem Frontmatter: Jeder Ort, Charakter, jede Fraktion und jedes Ereignis erklärt seine Verbindungen, sodass die Graphenansicht die wahre Gestalt der Welt zeigt und Dataview Indizes und Zeitleisten zusammensetzt. Vollständig demonstriert mit **Die Gezeitenhöfe** — einem originalen niedermagischen Setting aus rund zwanzig dicht verknüpften Notizen: sechs Orte, sieben Charaktere, drei Fraktionen und eine Chronologie aus fünf Ereignissen, die auf eine Krise zuläuft.
+Ein Worldbuilding-System für Romanautoren, Spielleitungen und Settingbastler, gebaut auf relationalem Frontmatter: Jeder Ort, Charakter, jede Fraktion und jedes Ereignis erklärt seine Verbindungen, sodass die Graphenansicht die wahre Gestalt der Welt zeigt und Dataview Indizes und Zeitleisten zusammensetzt. Vollständig demonstriert mit **Die Gezeitenhöfe** — einem originalen niedermagischen Setting aus zwei Dutzend dicht verknüpften Notizen: sechs Orte, sieben Charaktere, drei Fraktionen, eine Kultur, ein Glaube, ein umstrittener Gegenstand und eine Chronologie aus fünf Ereignissen, die auf eine Krise zuläuft.
 
 ## Struktur
 
@@ -13,8 +13,11 @@ worldbuilding-vault/
 ├── Charaktere/        ← 7 Personen (home, faction, role)
 ├── Fraktionen/        ← 3 Mächte (seat, leader)
 ├── Ereignisse/        ← 5 Ereignisse (year, location, participants)
+├── Kulturen/          ← 1 Kultur (homeland, beliefs)
+├── Glauben/           ← 1 Glaube (followers, holy-place)
+├── Gegenstände/       ← 1 Gegenstand (held-by, location, origin)
 ├── Karten/            ← leer; die Notiz darin erklärt, wohin Karten gehören
-└── Vorlagen/          ← Ort, Charakter, Fraktion, Ereignis
+└── Vorlagen/          ← Ort, Charakter, Fraktion, Ereignis, Kultur, Glaube, Gegenstand
 ```
 
 ## Installation
