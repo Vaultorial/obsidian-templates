@@ -1,6 +1,6 @@
 # Meeting-Notizen-Paket — Obsidian-Vorlage
 
-Drei einsatzbereite Besprechungsnotiz-Vorlagen für Obsidian — Teammeeting, 1-on-1 und Kundengespräch — mit strukturiertem Frontmatter, einem einheitlichen Layout aus Agenda/Notizen/Entscheidungen/Aktionspunkten und einem Dataview-Dashboard, das jede Besprechung und jeden offenen Aktionspunkt sichtbar macht. Enthält vier ausgefüllte Beispielbesprechungen aus einem einzigen Projekt, damit das Dashboard beim ersten Öffnen funktioniert.
+Fünf Besprechungsnotiz-Vorlagen für Obsidian — Teammeeting, 1-on-1, Kundengespräch, Daily Stand-up und Retrospektive — mit strukturiertem Frontmatter, einem einheitlichen Layout aus Agenda/Notizen/Entscheidungen/Aktionspunkten und einem Dataview-Dashboard, das jede Besprechung und jeden offenen Aktionspunkt sichtbar macht. Enthält vier ausgefüllte Beispielbesprechungen aus einem einzigen Projekt, damit das Dashboard beim ersten Öffnen funktioniert.
 
 Aktionspunkte verwenden die Datumssyntax des Tasks-Plugins (`- [ ] Verantwortlich — Aktion 📅 2026-06-15`), sodass sie sich direkt in einen GTD-Vault mit dem Tasks-Plugin übernehmen lassen.
 
@@ -13,12 +13,16 @@ meeting-notes-template/
 ├── Vorlagen/
 │   ├── Teammeeting.md
 │   ├── 1-on-1.md
-│   └── Kundengespräch.md
-└── Besprechungen/              ← vier ausgefüllte Beispiele, ein zusammenhängendes Projekt
+│   ├── Kundengespräch.md
+│   ├── Daily Stand-up.md
+│   └── Retrospektive.md
+└── Besprechungen/              ← sechs ausgefüllte Beispiele, ein zusammenhängendes Projekt
     ├── 2026-05-04 Kickoff Kundenportal.md
     ├── 2026-05-11 1-on-1 Sarah und Priya.md
     ├── 2026-05-14 Kundengespräch Brightleaf.md
-    └── 2026-06-01 Sprint-Review Kundenportal.md
+    ├── 2026-05-19 Daily Stand-up Kundenportal.md
+    ├── 2026-06-01 Sprint-Review Kundenportal.md
+    └── 2026-06-02 Sprint-Retrospektive Kundenportal.md
 ```
 
 ## Installation

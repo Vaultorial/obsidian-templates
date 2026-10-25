@@ -1,10 +1,10 @@
 # Empieza aquí
 
-Bienvenido. Este vault es un sistema de notas de reunión para Obsidian: tres plantillas listas (reunión de equipo, 1-on-1, llamada con cliente), un panel Dataview que encuentra cada reunión y cada elemento de acción sin terminar, y cuatro reuniones de ejemplo rellenadas de un mismo proyecto coherente, para que veas el sistema funcionando antes de adoptarlo.
+Bienvenido. Este vault es un sistema de notas de reunión para Obsidian: cinco plantillas listas (reunión de equipo, 1-on-1, llamada con cliente, daily standup, retrospectiva), un panel Dataview que encuentra cada reunión y cada elemento de acción sin terminar, y seis reuniones de ejemplo rellenadas de un mismo proyecto coherente, para que veas el sistema funcionando antes de adoptarlo.
 
 ## Cómo se organiza el vault
 
-- `Plantillas/` — el producto. [[Reunión de equipo]], [[1-on-1]] y [[Llamada con cliente]], cada una con frontmatter estructurado (`type`, `date`, `project`, `attendees`) y las mismas cuatro secciones: agenda, notas, decisiones, elementos de acción.
+- `Plantillas/` — el producto. [[Reunión de equipo]], [[1-on-1]], [[Llamada con cliente]], [[Daily standup]] y [[Retrospectiva]], cada una con frontmatter estructurado (`type`, `date`, `project`, `attendees`) y las mismas cuatro secciones: agenda, notas, decisiones, elementos de acción.
 - `Reuniones/` — una nota por reunión, con el nombre `YYYY-MM-DD Tema`. Los ejemplos siguen un proyecto de consultoría (la construcción de un portal de cliente para una aseguradora) a través de un arranque, un 1-on-1, una llamada con cliente y una revisión de sprint.
 - [[Panel de reuniones]] — rollups Dataview: reuniones recientes, reuniones por tipo, por proyecto y todos los elementos de acción abiertos en un solo sitio.
 

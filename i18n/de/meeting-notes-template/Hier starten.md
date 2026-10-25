@@ -1,10 +1,10 @@
 # Hier starten
 
-Willkommen. Dieser Vault ist ein System für Besprechungsnotizen für Obsidian: drei fertige Vorlagen (Teammeeting, 1-on-1, Kundengespräch), ein Dataview-Dashboard, das jede Besprechung und jeden unerledigten Aktionspunkt findet, und vier ausgefüllte Beispielbesprechungen aus einem zusammenhängenden Projekt, damit du das System arbeiten siehst, bevor du es übernimmst.
+Willkommen. Dieser Vault ist ein System für Besprechungsnotizen für Obsidian: fünf fertige Vorlagen (Teammeeting, 1-on-1, Kundengespräch, Daily Stand-up, Retrospektive), ein Dataview-Dashboard, das jede Besprechung und jeden unerledigten Aktionspunkt findet, und sechs ausgefüllte Beispielbesprechungen aus einem zusammenhängenden Projekt, damit du das System arbeiten siehst, bevor du es übernimmst.
 
 ## Wie der Vault aufgebaut ist
 
-- `Vorlagen/` — das Produkt. [[Teammeeting]], [[1-on-1]] und [[Kundengespräch]], jede mit strukturiertem Frontmatter (`type`, `date`, `project`, `attendees`) und denselben vier Abschnitten: Agenda, Notizen, Entscheidungen, Aktionspunkte.
+- `Vorlagen/` — das Produkt. [[Teammeeting]], [[1-on-1]], [[Kundengespräch]], [[Daily Stand-up]] und [[Retrospektive]], jede mit strukturiertem Frontmatter (`type`, `date`, `project`, `attendees`) und denselben vier Abschnitten: Agenda, Notizen, Entscheidungen, Aktionspunkte.
 - `Besprechungen/` — eine Notiz pro Besprechung, benannt `YYYY-MM-DD Thema`. Die Beispiele folgen einem Beratungsprojekt (dem Aufbau eines Kundenportals für einen Versicherungskunden) über einen Kickoff, ein 1-on-1, ein Kundengespräch und einen Sprint-Review.
 - [[Besprechungs-Dashboard]] — Dataview-Rollups: jüngste Besprechungen, Besprechungen nach Typ, nach Projekt und alle offenen Aktionspunkte an einem Ort.
 

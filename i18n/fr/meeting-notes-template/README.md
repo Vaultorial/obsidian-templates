@@ -13,12 +13,16 @@ meeting-notes-template/
 ├── Modèles/
 │   ├── Réunion d'équipe.md
 │   ├── 1-on-1.md
-│   └── Appel client.md
-└── Réunions/                       ← quatre exemples remplis, un même projet cohérent
+│   ├── Appel client.md
+│   ├── Daily standup.md
+│   └── Rétrospective.md
+└── Réunions/                       ← six exemples remplis, un même projet cohérent
     ├── 2026-05-04 Lancement du portail client.md
     ├── 2026-05-11 1-on-1 Sarah et Priya.md
     ├── 2026-05-14 Appel client Brightleaf.md
-    └── 2026-06-01 Revue de sprint du portail client.md
+    ├── 2026-05-19 Daily standup du portail client.md
+    ├── 2026-06-01 Revue de sprint du portail client.md
+    └── 2026-06-02 Rétrospective de sprint du portail client.md
 ```
 
 ## Installation

@@ -1,10 +1,10 @@
 # Start Here
 
-Welcome. This vault is a meeting notes system for Obsidian: three ready-made templates (team meeting, 1-on-1, client call), a Dataview dashboard that finds every meeting and every unfinished action item, and four filled-in example meetings from one coherent project so you can see the system working before you adopt it.
+Welcome. This vault is a meeting notes system for Obsidian: five ready-made templates (team meeting, 1-on-1, client call, daily standup, retrospective), a Dataview dashboard that finds every meeting and every unfinished action item, and six filled-in example meetings from one coherent project so you can see the system working before you adopt it.
 
 ## How the vault is organized
 
-- `Templates/` — the product. [[Team Meeting]], [[1-on-1]] and [[Client Call]], each with structured frontmatter (`type`, `date`, `project`, `attendees`) and the same four sections: agenda, notes, decisions, action items.
+- `Templates/` — the product. [[Team Meeting]], [[1-on-1]], [[Client Call]], [[Daily Standup]] and [[Retrospective]], each with structured frontmatter (`type`, `date`, `project`, `attendees`) and the same four sections: agenda, notes, decisions, action items.
 - `Meetings/` — one note per meeting, named `YYYY-MM-DD Topic`. The examples follow a consultancy project (a client portal build for an insurance client) across a kickoff, a 1-on-1, a client call and a sprint review.
 - [[Meetings Dashboard]] — Dataview rollups: recent meetings, meetings by type, by project, and all open action items in one place.
 

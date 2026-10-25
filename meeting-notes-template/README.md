@@ -1,6 +1,6 @@
 # Meeting Notes Pack — Obsidian Template
 
-Three battle-ready meeting note templates for Obsidian — team meeting, 1-on-1, and client call — with structured frontmatter, a consistent agenda/notes/decisions/action-items layout, and a Dataview dashboard that surfaces every meeting and every open action item. Includes four realistic, filled-in example meetings from a single project so the dashboard works on first open.
+Five meeting note templates for Obsidian — team meeting, 1-on-1, client call, daily standup and retrospective — with structured frontmatter, a consistent agenda/notes/decisions/action-items layout, and a Dataview dashboard that surfaces every meeting and every open action item. Includes six realistic, filled-in example meetings from a single project so the dashboard works on first open.
 
 Action items use the Tasks-plugin date syntax (`- [ ] Owner — action 📅 2026-06-15`), so they can be lifted straight into a GTD vault that runs the Tasks plugin.
 
@@ -13,12 +13,16 @@ meeting-notes-template/
 ├── Templates/
 │   ├── Team Meeting.md
 │   ├── 1-on-1.md
-│   └── Client Call.md
-└── Meetings/                ← four filled-in examples, one coherent project
+│   ├── Client Call.md
+│   ├── Daily Standup.md
+│   └── Retrospective.md
+└── Meetings/                ← six filled-in examples, one coherent project
     ├── 2026-05-04 Client Portal Kickoff.md
     ├── 2026-05-11 1-on-1 Sarah and Priya.md
     ├── 2026-05-14 Brightleaf Client Call.md
-    └── 2026-06-01 Client Portal Sprint Review.md
+    ├── 2026-05-19 Client Portal Daily Standup.md
+    ├── 2026-06-01 Client Portal Sprint Review.md
+    └── 2026-06-02 Client Portal Sprint Retrospective.md
 ```
 
 ## Installation

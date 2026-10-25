@@ -1,10 +1,10 @@
 # Commencez ici
 
-Bienvenue. Ce vault est un système de notes de réunion pour Obsidian : trois modèles prêts à l'emploi (réunion d'équipe, 1-on-1, appel client), un tableau de bord Dataview qui trouve chaque réunion et chaque action inachevée, et quatre réunions d'exemple remplies issues d'un même projet cohérent, pour que vous voyiez le système fonctionner avant de l'adopter.
+Bienvenue. Ce vault est un système de notes de réunion pour Obsidian : cinq modèles prêts à l'emploi (réunion d'équipe, 1-on-1, appel client, daily standup, rétrospective), un tableau de bord Dataview qui trouve chaque réunion et chaque action inachevée, et six réunions d'exemple remplies issues d'un même projet cohérent, pour que vous voyiez le système fonctionner avant de l'adopter.
 
 ## Comment le vault est organisé
 
-- `Modèles/` — le produit. [[Réunion d'équipe]], [[1-on-1]] et [[Appel client]], chacun avec un frontmatter structuré (`type`, `date`, `project`, `attendees`) et les mêmes quatre sections : ordre du jour, notes, décisions, actions.
+- `Modèles/` — le produit. [[Réunion d'équipe]], [[1-on-1]], [[Appel client]], [[Daily standup]] et [[Rétrospective]], chacun avec un frontmatter structuré (`type`, `date`, `project`, `attendees`) et les mêmes quatre sections : ordre du jour, notes, décisions, actions.
 - `Réunions/` — une note par réunion, nommée `YYYY-MM-DD Sujet`. Les exemples suivent un projet de conseil (la construction d'un portail client pour un assureur) à travers un lancement, un 1-on-1, un appel client et une revue de sprint.
 - [[Tableau de bord des réunions]] — rollups Dataview : réunions récentes, réunions par type, par projet et toutes les actions ouvertes en un seul endroit.
 
